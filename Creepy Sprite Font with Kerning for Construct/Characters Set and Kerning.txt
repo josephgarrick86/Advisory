@@ -1,0 +1,79 @@
+INSTRUCTIONS
+
+Some manual adjustment to the kerning values might be required depending on the style you want to give to each letter.
+
+Use negative character spacing in the setting to have a more compact text, like in the sample and on the screenshots it is set to -2.
+
+
+
+Character Set:
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-+"' áàéèíìóòúù&%@<>()[]{}/\=*#|€$
+
+
+If you need to set the width of each caracter to adjust the kerning use the following dimensions:
+
+Width	Characters
+33	|
+40	l
+41	I
+43	íì
+44	.
+45	i="
+46	:
+49	!
+51	,;'
+55	c
+56	09
+58	oróò] 
+59	e18éè)
+60	n?
+61	q
+62	b}
+63	ps6
+64	([
+65	g-{=
+66	v3
+67	adtáà
+68	uúù>
+72	Fh<
+73	4
+74	0\
+75	f
+76	D*
+77	E
+78	B
+79	&
+80	jx
+81	Y7
+82	5
+83	L
+84	UV$
+85	Pw2+%
+86	ANOm	
+87	k
+88	M
+90	Rzy
+91	CHKS
+93	@
+95	G
+96	T
+97	Z
+98	J
+100	X
+101	€
+103	W
+105	/
+106	Q
+
+
+Thank you very much for your purchase!
+
+If you like the font please take the time to leave a review.
+
+Check out my other assets and games at:
+https://biim.games
+
+
+Thank you!
+Biim Games
+106

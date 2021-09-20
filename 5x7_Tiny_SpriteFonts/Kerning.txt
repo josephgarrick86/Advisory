@@ -1,0 +1,6 @@
+Use these settings to create kerning manually:
+
+With	Characters
+ 4	ABCDEFGHJKLMNOPQRSTUVWXYZ1234567890?-_~#°%+*\/=<>
+ 3	,;() []
+ 2	|I.:!'
