@@ -5,10 +5,21 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-	"usedAddons": [],
-	"uniqueId": "hdv5soat05j",
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r260",
+			"bundled": false
+		}
+	],
+	"uniqueId": "hwkz88079ci",
 	"objectTypes": {
-		"items": [],
+		"items": [
+			"Sprite"
+		],
 		"subfolders": []
 	},
 	"autosaveData": null,
@@ -55,7 +66,7 @@
 				{
 					"name": "icon-16.png",
 					"type": "image/png",
-					"sid": 958884675468080,
+					"sid": 733550565990325,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -63,7 +74,7 @@
 				{
 					"name": "icon-32.png",
 					"type": "image/png",
-					"sid": 894468469381160,
+					"sid": 313116532674042,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -71,7 +82,7 @@
 				{
 					"name": "icon-64.png",
 					"type": "image/png",
-					"sid": 832193668878435,
+					"sid": 696999220892236,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -79,7 +90,7 @@
 				{
 					"name": "icon-128.png",
 					"type": "image/png",
-					"sid": 134546748803713,
+					"sid": 575235448236360,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -87,7 +98,7 @@
 				{
 					"name": "icon-512.png",
 					"type": "image/png",
-					"sid": 341692958995029,
+					"sid": 685627800916430,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -95,7 +106,7 @@
 				{
 					"name": "loading-logo.png",
 					"type": "image/png",
-					"sid": 956345979183352,
+					"sid": 261275612636836,
 					"icon-info": {
 						"purpose": "loading-logo"
 					}
@@ -103,7 +114,7 @@
 				{
 					"name": "icon-256.png",
 					"type": "image/png",
-					"sid": 219874496510897,
+					"sid": 965473097840706,
 					"icon-info": {
 						"purpose": "app-icon"
 					}

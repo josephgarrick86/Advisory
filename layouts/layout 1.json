@@ -4,8 +4,38 @@
 		{
 			"name": "Layer 0",
 			"overriden": 0,
-			"instances": [],
-			"sid": 606903143044618,
+			"instances": [
+				{
+					"type": "Sprite",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 2,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 279,
+						"y": 277.5,
+						"width": 131,
+						"height": 132,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				}
+			],
+			"sid": 377477844242086,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -32,7 +62,7 @@
 			"global": false
 		}
 	],
-	"sid": 312615682121221,
+	"sid": 572762821927832,
 	"nonworld-instances": [],
 	"effectTypes": [],
 	"width": 1708,
